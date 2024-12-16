@@ -4,9 +4,12 @@ import './App.css'
 const MyComponent = () => {
   return (
     <div>
-      <h1>Bienvenido</h1>
-      <p>Test desplegando</p>
+      <img src="../cyberpunk.jpg" alt="imagenHero" id="imagenHero" />
+      <h1>🦖 Bienvenido ✌️</h1>
+      <p> <strong><i>Despliegue termiando </i>🚀</strong> </p>
+
     </div>
+
   )
 }
 

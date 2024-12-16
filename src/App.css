@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+#imagenHero {
+  width: 70vh;
+  height: 42vh;
+  border-radius: 15px;
+}
