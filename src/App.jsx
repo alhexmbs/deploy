@@ -2,12 +2,12 @@ import React from 'react'
 import './App.css'
 
 const MyComponent = () => {
-  const rutaImagen = '../public/cyberpunk.jpg'
+  const rutaImagen = 'https://geekzilla.tech/home/wp-content/uploads/2024/10/image-281.png'
 
   return (
     <div>
       <img src={ rutaImagen } alt="imagenHero" id="imagenHero" />
-      <h1>🦖 Bienvenido ✌️</h1>
+      <h1>🦖 Hola que hace ✌️</h1>
       <p> <strong><i>Despliegue termiando </i>🚀</strong> </p>
 
     </div>
